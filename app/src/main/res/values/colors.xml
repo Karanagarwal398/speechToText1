@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="suferm">#FF961F</color>
+    <color name="text">#f40404</color>
+    <color name="lay">#48c94a</color>
+    <color name="focused">#5bb5ce</color>
+    <color name="fb">#3F51B5</color>
+    <color name="layoutuser">#fff</color>
+    <color name="button_pressed">#1c76bb</color>
+    <color name="button_focused">#ff8a00</color>
+    <color name="button_default">#1c76bb</color>
+    <color name="white">#ffffff</color>
+    <color name="bg_gradient_start">#31244e</color>
+    <color name="bg_gradient_end">#6b394c</color>
+</resources>
